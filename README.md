@@ -32,3 +32,6 @@ Build a classification model that analyzes various social behavior indicators (e
 ### 🚀 Output
 
 Accurate prediction of whether a person is an introvert or extrovert based on behavior-related features.
+
+<img width="1562" height="792" alt="image" src="https://github.com/user-attachments/assets/badb0896-fb72-4946-969f-0d4af42fb311" />
+
